@@ -82,7 +82,7 @@ funcion.addEventListener('click', ( () => {
   respuesta.innerHTML = "Correcto"
 
   }else if(respFinal != 0){
-  respuesta.innerHTML = "Incsorrecto"
+  respuesta.innerHTML = "Incorrecto"
   }
   
 }))
